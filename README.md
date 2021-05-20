@@ -10,7 +10,7 @@
 </p>
 <br>
 <h1 align="center">
-   React Tooltip Soft 
+   React Mouse Smooth
 </h1>
 <p align="center"> 
  Add smooth scrolling to your react project 
