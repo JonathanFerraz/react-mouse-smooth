@@ -1,0 +1,28 @@
+{
+  "name": "react-mouse-smooth",
+  "version": "1.0.0",
+  "description": "Scroll suave para uma melhor visualização ao rolar a página",
+  "keywords": [
+    "react",
+    "scroll",
+    "mouse-smooth",
+    "react-mouse-smooth",
+    "smooth",
+    "smooth-scroll",
+    "suave"
+  ],
+  "main": "lib/mouseSmooth.js",
+  "types": "typings/mouseSmooth.d.ts",
+  "license": "MIT",
+  "author": "Jonathan Ferraz (https://github.com/JonathanFerraz)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JonathanFerraz/react-mouse-smooth"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "lib/",
+    "typings/"
+  ]
+}
